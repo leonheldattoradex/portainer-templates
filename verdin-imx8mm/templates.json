@@ -21,6 +21,10 @@
                 {
                     "name": "IGNORE_VT_SWITCH_BACK",
                     "set": "1"
+                },
+                {
+                    "name": "ACCEPT_FSL_EULA",
+                    "set": "1"
                 }
             ],
             "volumes": [
